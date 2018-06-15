@@ -1,0 +1,10 @@
+- Kenneth Reitz, Tanya Schlusser-The Hitchhiker’s Guide to Python_ Best Practices for Development-O’Reilly Media (2016) [[pdf]](https://pan.baidu.com/s/1ixSL1dzOsomlz70_n2TNhQ)
+- Luciano Ramalho-Fluent Python-O'Reilly Media (2015) [[pdf]](https://pan.baidu.com/s/1zA2ps2sPibiTQhB_EuvIOQ)
+- Programming-Pearls [[pdf]](https://pan.baidu.com/s/1QFDFw0F2rQF2ehKMsRMMpQ)
+- Python编程：从入门到实践 [[pdf]](https://pan.baidu.com/s/1TbN4AsbPxOG9pPDDLvcXMg)
+- Python编程导论（第2版）[[pdf]](https://pan.baidu.com/s/1Mkmo2tTXD369GZIe9XLu9w)
+- sicp [[pdf]](https://pan.baidu.com/s/1GCy0RBZd2nQG7wxA7UmO0w)
+- The.Python.3.Standard.Library.by.Example.2017.6 [[pdf]](https://pan.baidu.com/s/1RY2F42K6YEhd0lzp2oYWEA)
+- vim-1.0 [[pdf]](https://pan.baidu.com/s/1GArJnb5MUW3PJ4InQPW4pg)
+
+

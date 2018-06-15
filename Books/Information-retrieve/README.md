@@ -1,0 +1,3 @@
+- ChengXiang Zhai, Sean Massung-Text Data Management and Analysis_ A Practical Introduction to Information Retrieval and Text Mining-Morgan & Claypool (2016) [[pdf]](https://pan.baidu.com/s/1CdN-x9AtvCSzxKoMXFh0kA)
+- Christopher D Manning_ Prabhakar Raghavan_ Hinrich Schutze-Introduction to information retrieval-Cambridge University Press (2008) [[pdf]](https://pan.baidu.com/s/1XsajRZBCiOM-CbR3iiyQBA)
+
