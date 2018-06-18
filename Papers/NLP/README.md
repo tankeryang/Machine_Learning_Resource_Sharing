@@ -8,6 +8,6 @@
 - [Deep Speaker an End-to-End Neural Speaker Embedding System](https://pan.baidu.com/s/1L22UnlvSu9ZnAuVLHVoUzg)
 - [Efficient_Estimation_of_Word_Representations_in_Vector_Space](https://pan.baidu.com/s/10eVcZuN6rVc_bpCPOtLmAw)
 - [From Word Embeddings To Document Distances](https://pan.baidu.com/s/1sffi_ppLDygYzpIuGOimIA)
-- [hirechay-softmax-negative-sampling(http]s://pan.baidu.com/s/1N3yRbJpvQzu1rksdB-p2Eg)
+- [hirechay-softmax-negative-sampling](https://pan.baidu.com/s/1N3yRbJpvQzu1rksdB-p2Eg)
 - [NLP-From-Scrath](https://pan.baidu.com/s/1e8N3KF_pLorwNeaElViXRQ)
 - [word2vec_parameters_explain](https://pan.baidu.com/s/1iToCMkw2P_ncVyA9rTVMpA)
