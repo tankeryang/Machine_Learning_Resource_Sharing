@@ -1,2 +1,1 @@
-- NLP.ppt [[ppt]](https://pan.baidu.com/s/1QhynG9d9fE6iWOPN8-OgGQ)
-
+- [NLP.ppt](https://pan.baidu.com/s/1QhynG9d9fE6iWOPN8-OgGQ)
