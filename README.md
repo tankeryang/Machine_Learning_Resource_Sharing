@@ -1,6 +1,7 @@
 # Machine_Learning_Resource_Sharing
 
 > `author`: [tsungruihon](https://github.com/tsungruihon), [tankeryang](https://github.com/tankeryang) and summer.
+>
 > `date`: 2018-05-18
 
 这是一个共享学习资源的库，请遵守以下提交规则
