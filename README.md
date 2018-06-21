@@ -41,11 +41,6 @@
     git merge upstream/master
     ```
 
-- 每次添加内容前，先拉取自己远程`master`:
-    ```shell
-    git pull origin master
-    ```
-
 - 添加内容，并提交:
     ```shell
     git add <你新加或者修改过的文件>
