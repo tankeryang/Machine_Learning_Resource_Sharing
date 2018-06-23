@@ -11,3 +11,6 @@
 - [hirechay-softmax-negative-sampling](https://pan.baidu.com/s/1N3yRbJpvQzu1rksdB-p2Eg)
 - [NLP-From-Scrath](https://pan.baidu.com/s/1e8N3KF_pLorwNeaElViXRQ)
 - [word2vec_parameters_explain](https://pan.baidu.com/s/1iToCMkw2P_ncVyA9rTVMpA)
+- [Part Of Speech Tagging and Chunking with HMM and CRF](https://pan.baidu.com/s/1TKtOZe4mcWcPaOX6aIlgYQ)
+- [https://pan.baidu.com/s/1T8FYcHLfD65aUhjzjPrDiw](https://pan.baidu.com/s/1T8FYcHLfD65aUhjzjPrDiw)
+- [tutorial on hmm and applications](https://pan.baidu.com/s/1g1YneGrU-aTUEu87_Gpl7g)

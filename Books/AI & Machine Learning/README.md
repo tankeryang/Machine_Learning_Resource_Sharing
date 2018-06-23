@@ -13,3 +13,4 @@
 - [Paradigms-of-Artificial-Intelligence-Programming copy](https://pan.baidu.com/s/1Hfu-lbK-07Gp6hbdQrQi6Q)  
 - [scikit-learn Cookbook](https://pan.baidu.com/s/16l370Rsiiera156rdZPhlQ)
 - [scikit-learn-docs](https://pan.baidu.com/s/1x0o9J5G-_kgIN_HGfWTQmA)
+
