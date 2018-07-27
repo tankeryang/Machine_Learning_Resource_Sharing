@@ -12,4 +12,10 @@
 ---
 
 - [tankeryang/banciyuan-downloader](https://github.com/tankeryang/banciyuan-downloader)
-    > 功能强大的[半次元](https://bcy.net)图片爬虫，详情参考项目README。喜欢的请 __star__ 一下哦
+    > 功能强大的[半次元](https://bcy.net)图片爬虫，高效爬取精美小姐姐 cos 图，智能下载，断点续存，... 喜欢的请 __star__ 一下哦
+
+- [tankeryang/EZlearn](https://github.com/tankeryang/EZlearn)
+    > 机器学习通用基础开发框架，封装了许多开箱即用的功能，和定义训练脚本开发规范
+
+- [tankeryang/presto-etl-tools](https://github.com/tankeryang/presto-etl-tools)
+    > python实现的基于 presto 的 etl 工具
